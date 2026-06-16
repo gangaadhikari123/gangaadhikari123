@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @gangaadhikari123
+- ## 👋 Hi, I’m Ganga Adhikari. Software Engineering Student. 
 - 📫 How to reach me adhikariganga2061@gmail.com
+- 
   
 
 <!---
