@@ -1,4 +1,5 @@
-- ## 👋 Hi, I’m Ganga Adhikari. Software Engineering Student. 
+- ## 👋 Hi, I’m Ganga Adhikari.
+- ##Software Engineering Student from Neplal
 - 📫 How to reach me adhikariganga2061@gmail.com
 - 
   
