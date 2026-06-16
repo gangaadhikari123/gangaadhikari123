@@ -33,7 +33,7 @@ Django REST Framework backend with subscription and payment modules.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ganga-adhikari
+
 - Email: adhikariganga2061@gmail.com
 <!---
 gangaadhikari123/gangaadhikari123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
