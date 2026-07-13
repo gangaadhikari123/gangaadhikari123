@@ -1,6 +1,6 @@
 # Hi, I'm Ganga Adhikari 👋
 
-Computer Science Student | Full Stack Developer | Machine Learning Enthusiast
+Software Engineeering Student | Full Stack Developer | Machine Learning Enthusiast
 currently working at Reev Info Tech as a Backend Developer(Intern)
 
 ## 🚀 Skills
