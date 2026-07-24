@@ -6,7 +6,7 @@ currently working at Reev Info Tech as a Backend Developer(Intern)
 ## 🚀 Skills
 
 - Python
-- Django
+- Django REST Framework
 - React
 - Docker
 - PostgreSQL
