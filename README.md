@@ -23,7 +23,7 @@ currently working at Reev Info Tech as a Backend Developer(Intern)
 ## 🔥 Featured Projects
 
 ### 🍋 Lemon Leaf Disease Detection
-Deep learning-based disease classification system using ConvNeXt and Flutter.
+Deep learning-based disease classification system using MobileNetV2 and Flutter.
 
 ### 🏠 House Price Prediction
 Machine learning web application with Flask and React.
